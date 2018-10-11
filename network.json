@@ -3,26 +3,14 @@
         "rhfrench"
     ],
     "created_at": "2018-10-11 15:19:00",
-    "edges": [
-        {
-            "ports": [
-                {
-                    "output": "clean_data",
-                    "type": "csv"
-                }
-            ],
-            "source": "clean.R",
-            "target": "data.csv"
-        }
-    ],
+    "edges": [],
     "nodes": [
         {
-            "name": "clean.R"
-        },
-        {
-            "name": "data.csv"
+            "assigned_to": "rhfrench",
+            "name": "clean.R",
+            "task_status": "in progress"
         }
     ],
-    "updated_at": "2018-10-11 15:19:41",
+    "updated_at": "2018-10-11 15:20:06",
     "url": "https://github.com/fall2018-saltz/rhfrench_hw7"
 }
