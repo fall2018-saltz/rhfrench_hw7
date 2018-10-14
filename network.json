@@ -6,10 +6,12 @@
     "edges": [],
     "nodes": [
         {
+            "assigned_to": "not assigned",
             "desc": "",
-            "name": "hw7.R"
+            "name": "hw7.R",
+            "task_status": "proposed"
         }
     ],
-    "updated_at": "2018-10-14 17:31:57",
+    "updated_at": "2018-10-14 17:32:30",
     "url": "https://github.com/fall2018-saltz/rhfrench_hw7"
 }
