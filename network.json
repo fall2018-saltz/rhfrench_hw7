@@ -1,0 +1,70 @@
+{
+    "collaborators": [
+        "rhfrench"
+    ],
+    "created_at": "2018-10-11 15:19:00",
+    "edges": [
+        {
+            "ports": [
+                {
+                    "output": "map.areaColor",
+                    "type": "png"
+                }
+            ],
+            "source": "hw7.R",
+            "target": "map.areaColor.png"
+        },
+        {
+            "ports": [
+                {
+                    "output": "map.murderColor",
+                    "type": "png"
+                }
+            ],
+            "source": "hw7.R",
+            "target": "map.murderColor.png"
+        },
+        {
+            "ports": [
+                {
+                    "output": "map.murderAndPopColor",
+                    "type": "png"
+                }
+            ],
+            "source": "hw7.R",
+            "target": "map.murderAndPopColor.png"
+        },
+        {
+            "ports": [
+                {
+                    "output": "map.murderAndPopColorNE",
+                    "type": "png"
+                }
+            ],
+            "source": "hw7.R",
+            "target": "map.murderAndPopColorNE.png"
+        }
+    ],
+    "nodes": [
+        {
+            "assigned_to": "not assigned",
+            "desc": "",
+            "name": "hw7.R",
+            "task_status": "proposed"
+        },
+        {
+            "name": "map.areaColor.png"
+        },
+        {
+            "name": "map.murderColor.png"
+        },
+        {
+            "name": "map.murderAndPopColor.png"
+        },
+        {
+            "name": "map.murderAndPopColorNE.png"
+        }
+    ],
+    "updated_at": "2018-10-14 17:39:18",
+    "url": "https://github.com/fall2018-saltz/rhfrench_hw7"
+}
