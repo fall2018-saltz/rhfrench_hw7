@@ -11,12 +11,15 @@ library(dplyr)
 library(ggplot2)
 library(ggmap)
 
+
+
 #STEP A
 #read in census dataset
 #URL for population data
 urlToRead <- "https://www2.census.gov/programs-surveys/popest/datasets/2010-2017/state/asrh/scprc-est2017-18+pop-res.csv"
 #read in data from URL
-dfStates <- read.csv(url(urlToRead), stringsAsFactors = FALSE)
+urlToRead <- url(urlToRead)
+dfStates <- read.csv(urlToRead, stringsAsFactors = FALSE)
 
 #Remove unnecesary rows
 dfStates <- dfStates[-c(1, 53),]
