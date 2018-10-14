@@ -9,8 +9,12 @@
             "assigned_to": "rhfrench",
             "name": "clean.R",
             "task_status": "in progress"
+        },
+        {
+            "desc": "",
+            "name": "hw7.R"
         }
     ],
-    "updated_at": "2018-10-11 15:20:06",
+    "updated_at": "2018-10-14 17:31:48",
     "url": "https://github.com/fall2018-saltz/rhfrench_hw7"
 }
