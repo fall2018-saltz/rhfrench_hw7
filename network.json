@@ -23,6 +23,16 @@
             ],
             "source": "hw7.R",
             "target": "map.murderColor.png"
+        },
+        {
+            "ports": [
+                {
+                    "output": "map.murderAndPopColor",
+                    "type": "png"
+                }
+            ],
+            "source": "hw7.R",
+            "target": "map.murderAndPopColor.png"
         }
     ],
     "nodes": [
@@ -42,6 +52,6 @@
             "name": "map.murderAndPopColor.png"
         }
     ],
-    "updated_at": "2018-10-14 17:38:26",
+    "updated_at": "2018-10-14 17:38:56",
     "url": "https://github.com/fall2018-saltz/rhfrench_hw7"
 }
