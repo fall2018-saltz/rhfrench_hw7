@@ -37,8 +37,11 @@
         },
         {
             "name": "map.murderColor.png"
+        },
+        {
+            "name": "map.murderAndPopColor.png"
         }
     ],
-    "updated_at": "2018-10-14 17:38:08",
+    "updated_at": "2018-10-14 17:38:26",
     "url": "https://github.com/fall2018-saltz/rhfrench_hw7"
 }
