@@ -13,6 +13,16 @@
             ],
             "source": "hw7.R",
             "target": "map.areaColor.png"
+        },
+        {
+            "ports": [
+                {
+                    "output": "map.murderColor",
+                    "type": "png"
+                }
+            ],
+            "source": "hw7.R",
+            "target": "map.murderColor.png"
         }
     ],
     "nodes": [
@@ -29,6 +39,6 @@
             "name": "map.murderColor.png"
         }
     ],
-    "updated_at": "2018-10-14 17:38:02",
+    "updated_at": "2018-10-14 17:38:08",
     "url": "https://github.com/fall2018-saltz/rhfrench_hw7"
 }
